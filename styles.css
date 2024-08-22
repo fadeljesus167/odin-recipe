@@ -2,10 +2,18 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-a{
+.link{
     color: black;
     text-decoration: none;
 }
-a:hover{
-    color: purple;
+.link:hover{
+    color: rgb(102, 100, 218);
+}
+
+.title{
+    text-align: center;
+    padding: 8px;
+    background-color: rgb(159, 231, 236);
+    border-radius: 10px;
+    color: rgb(63, 60, 60);
 }
